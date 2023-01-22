@@ -11,3 +11,4 @@ Output
 
 # Screen Shot of the Test Output 
 
+<img width="663" alt="String_Bits" src="https://user-images.githubusercontent.com/107374333/213942851-272a41c7-9300-4fe9-9991-f7f8ab47bc31.png">
